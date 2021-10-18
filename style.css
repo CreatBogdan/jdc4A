@@ -1,0 +1,131 @@
+
+         /*Page d'accueil*/
+
+
+
+
+
+
+
+@font-face {
+    font-family: 'nebularegular';
+    src: url('fon/nebula-regular-webfont.woff2') format('woff2'),
+         url('font/nebula-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+body.acc {
+    
+    font-family: 'nebularegular';
+	background: url(jpg/fds.jpg);
+	background-size: 100%;
+	background-attachment: fixed; 
+}
+.accueil {
+
+	width: 60%;
+	height: 50%;
+	text-align: center;
+	margin: auto
+
+} 
+nav ul li.btn {
+
+	display: inline-block;
+	
+}
+
+nav ul li.btn a {
+
+	color: white;
+	list-style-type: none;
+	padding: 10px;
+    font-size: 30px;
+
+
+}
+/* nav ul li.btn:hover a {
+
+    color: red;
+} */
+nav ul li.btn a.btn1 {
+
+	margin-left: 165%;
+}
+nav ul li.btn:hover a.btn1 {
+
+	     color: red;
+}
+
+nav ul li.btn:hover a.btn2 {
+
+	color: red;
+}
+
+
+
+
+nav ul li.btn a.btn2 {
+
+	margin-left: 280%;
+}
+
+     /*Page de J.D.C*/
+
+body.jd {
+
+   background: url(jpg/fds1.jpg);
+   background-attachment: fixed;
+   background-size: 100%;
+   font-family: 'nebularegular';
+   
+}
+h1.tire {
+
+	color: #FFFFFF; 
+	margin-left: 10%;
+	margin-top: 8%;
+}
+img.papa {
+
+	margin-left: 10%;
+
+	width: 38%; 
+}
+
+
+
+nav.plus ul li.btn a.btn1 {
+
+
+
+	margin-left: 65%;
+
+	
+
+}
+nav.plusplus ul li.btn a.btn2 {
+
+
+     
+	margin-left: 37%;
+	
+
+}
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
